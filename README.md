@@ -14,6 +14,8 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
+**[https://v0-url-shortener-system-design.vercel.app/](https://v0-url-shortener-system-design.vercel.app/)**
+
 **[https://vercel.com/hemant140s-projects/v0-url-shortener-system-design](https://vercel.com/hemant140s-projects/v0-url-shortener-system-design)**
 
 ## Build your app
